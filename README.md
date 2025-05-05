@@ -1,2 +1,2 @@
 # ReactPractice
-React.js Practice
+React.js Practice by Gabriel Adam Torres
